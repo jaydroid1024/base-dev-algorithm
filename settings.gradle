@@ -1,0 +1,2 @@
+include ':base-dev-algorithm-00-app'
+rootProject.name = "base-dev-algorithm"
